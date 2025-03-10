@@ -96,9 +96,7 @@ const Foro = () => {
           </ul>
         </div>
       </main>
-      <footer className="bg-black text-white font-kalam py-5 text-xl">
-        <h5>Desarrollado Por:</h5>
-      </footer>
+      <footer className="bg-black py-5"></footer>
     </div>
   );
 };

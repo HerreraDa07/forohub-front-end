@@ -67,9 +67,7 @@ const UsuarioAcceso = () => {
           </button>
         </form>
       </main>
-      <footer className="bg-black text-white font-kalam text-xl py-5">
-        <h2>Desarrollado Por:</h2>
-      </footer>
+      <footer className="bg-black py-5"></footer>
     </div>
   );
 };

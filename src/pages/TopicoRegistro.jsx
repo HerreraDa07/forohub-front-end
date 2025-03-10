@@ -104,9 +104,7 @@ const TopicoRegistro = () => {
           </form>
         </div>
       </main>
-      <footer className="text-xl text-white bg-black py-5 font-kalam">
-        <h3>Desarrollado Por:</h3>
-      </footer>
+      <footer className=" bg-black py-5"></footer>
     </div>
   );
 };

@@ -123,7 +123,7 @@ const TopicoActualizar = () => {
           </div>
         </div>
       </main>
-      <footer className="bg-black text-white font-kalam py-5 text-xl">
+      <footer className="bg-black py-5">
         <h3>Desarrollado Por:</h3>
       </footer>
     </div>

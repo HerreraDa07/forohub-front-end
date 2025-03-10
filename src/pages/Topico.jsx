@@ -134,9 +134,7 @@ const Topico = () => {
           </div>
         </div>
       </main>
-      <footer className="bg-black text-white text-xl py-5 font-kalam">
-        <h6>Desarrollado Por:</h6>
-      </footer>
+      <footer className="bg-black py-5"></footer>
     </div>
   );
 };

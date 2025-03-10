@@ -76,9 +76,7 @@ const UsuarioRegistro = () => {
           </button>
         </form>
       </main>
-      <footer className="bg-black text-white text-xl py-5 font-kalam">
-        <h3>Desarrollado Por:</h3>
-      </footer>
+      <footer className="bg-black py-5"></footer>
     </div>
   );
 };

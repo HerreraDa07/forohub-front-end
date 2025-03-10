@@ -50,9 +50,7 @@ const RespuestaUsuario = () => {
           </ul>
         </div>
       </main>
-      <footer className="bg-black text-white py-5 text-xl font-kalam">
-        <h3>Desarrollado Por:</h3>
-      </footer>
+      <footer className="bg-black py-5"></footer>
     </div>
   );
 };
